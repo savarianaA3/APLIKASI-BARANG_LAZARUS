@@ -16,3 +16,22 @@ Uas Pemprograman Visual (Dekstop)
 
 4. Database Transaksi
 ![Screenshot (268)](https://github.com/savarianaA3/APLIKASI-BARANG_LAZARUS/assets/118242563/abb28e44-1de8-499d-81c5-fea290d2b6a8)
+
+5. Login Aplikasi Data Barang
+![Screenshot (273)](https://github.com/savarianaA3/APLIKASI-BARANG_LAZARUS/assets/118242563/61f700e7-cf81-4804-9eed-207e4ad4891e)
+
+6. Menu Aplikasi
+![Screenshot (272)](https://github.com/savarianaA3/APLIKASI-BARANG_LAZARUS/assets/118242563/d4545c22-c16d-44d0-8ce9-947ea31dcd20)
+
+7. Data Master
+![Screenshot (271)](https://github.com/savarianaA3/APLIKASI-BARANG_LAZARUS/assets/118242563/2458af38-eab2-4c6e-8d5c-d3f75ff71090)
+
+8. Master/Detail
+![Screenshot (270)](https://github.com/savarianaA3/APLIKASI-BARANG_LAZARUS/assets/118242563/10ff79dc-0933-4727-a090-b8df42417ad1)
+
+9. Transaksi
+![Screenshot (269)](https://github.com/savarianaA3/APLIKASI-BARANG_LAZARUS/assets/118242563/89e80b4a-477d-43d6-bf36-f61833068abb)
+
+***************************************************************************
+10. Link Youtube
+    
