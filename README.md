@@ -39,4 +39,9 @@ Uas Pemprograman Visual (Dekstop)
 
 ***************************************************************************
 11. Demo Aplikasi Link Youtube
+https://youtu.be/EvZaISEFcXE?si=ojZfsGVwnTulmDOY
+(note:pastikan setting kualitas 360-720p)
+
+****************************************************************************
+** TERIMAKASIH **
     
