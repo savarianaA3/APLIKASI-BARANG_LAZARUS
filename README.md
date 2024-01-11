@@ -32,6 +32,11 @@ Uas Pemprograman Visual (Dekstop)
 9. Transaksi
 ![Screenshot (269)](https://github.com/savarianaA3/APLIKASI-BARANG_LAZARUS/assets/118242563/89e80b4a-477d-43d6-bf36-f61833068abb)
 
+10. Laporan
+![Screenshot (274)](https://github.com/savarianaA3/APLIKASI-BARANG_LAZARUS/assets/118242563/50e2a3ca-dced-4e00-b8e8-005167598c29)
+
+
+
 ***************************************************************************
-10. Link Youtube
+11. Demo Aplikasi Link Youtube
     
